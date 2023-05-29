@@ -1,4 +1,7 @@
 # Report_graph_tool
+## What's this?
+Excelの列をペーストしたいとき、
+![Excel内](pic1.png)
 ## requirements
 python,pyperclip,matplotlib,numpy  
 ## excel_to_py 
