@@ -1,4 +1,6 @@
 # Report_graph_tool
+## requirements
+python,pyperclip,matplotlib,numpy  
 ## excel_to_py 
 excelでセルをコピーした状態でこれを走らせると、pythonの配列にクリップボード内データが変換されるから、
 そのままpythonコード内で使える
