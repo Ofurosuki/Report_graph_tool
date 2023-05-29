@@ -6,6 +6,8 @@ Excelの列をペーストしたいとき、
 こうなるから、
 クリップボードをいじって、こうするツール
 ![python2](pic3.png)
+レポート用のグラフ出力テンプレートつき。
+![ex](pic4.png)
 ## requirements
 python,pyperclip,matplotlib,numpy  
 ## excel_to_py 
