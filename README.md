@@ -2,6 +2,10 @@
 ## What's this?
 Excelの列をペーストしたいとき、
 ![Excel内](pic1.png)
+![python](pic2.png)
+こうなるから、
+クリップボードをいじって、こうするツール
+![python2](pic3.png)
 ## requirements
 python,pyperclip,matplotlib,numpy  
 ## excel_to_py 
